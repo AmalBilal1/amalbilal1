@@ -24,8 +24,7 @@ I’m passionate about leveraging machine learning and data science to create im
 
 ### 📊 GitHub Highlights
 - Contributions to **5+ repositories** across academic work, personal projects, and competitions.
-- Experience with **data visualization**, **machine learning**, and **collaborative development**  
-- Github Stats Card
+- Experience with **data visualization**, **machine learning**, and **collaborative development**
 
 ---
 
