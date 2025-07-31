@@ -1,39 +1,31 @@
 # Amal Bilal | Aspiring Data Scientist
 
-Aspiring Data Scientist with hands-on experience in analyzing data and building llms.
-I focus on **clean code, scalable solutions, and continuous learning.**
+I’m passionate about leveraging machine learning and data science to create impactful, real-world solutions—especially in healthcare and scientific discovery. I’m eager to contribute to innovative, interdisciplinary projects and pursue opportunities that prepare me for a meaningful future in AI research.
 
 - 🎓 B.S. Computer Science, B.S. Applied Mathematics & Statistics at Stony Brook University
-- 💻 Interests: Data Science, Machine Learning
-- 🌱 Currently learning: [e.g., Python for Data Science, React]
-- 📫 Reach me: amalbilal20@gmail.com, www.linkedin.com/in/amal-bilal
+- 📈 Interests: Data Science, Machine Learning, Bioinformatics
+- 🌱 Currently Learning: Web Development, React
+- 📫 Reach Me: amalbilal20@gmail.com, www.linkedin.com/in/amal-bilal
 
 ---
 
-### Technical Skills
+### 💻 Technical Skills
 - **Languages:** Python, Java, SQL
-- **Frameworks & Tools:** React, Node.js, Flask, Docker, Git  
-- **Databases & Cloud:** PostgreSQL, MySQL, AWS 
-- **Other:** REST APIs, Test-Driven Development
-
+- **Libraries:** Pandas, NumPy, TensorFlow, PyTorch, Keras, Matplotlib
 ---
 
 ### 📂 Featured Projects
 
-_Don't have projects yet? That's ok! This is only an example_
-
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**Project 1**](GitHub Repo URL) | Built a [1-line description focused on measurable impact or functionality] | Python, Flask |
-| [**Project 2**](GitHub Repo URL) | Developed [short impactful description] | React, Node.js |
-| [**Project 3**](GitHub Repo URL) | Implemented [feature/solution] to solve [problem] | Java, Spring Boot |
+| [ReRelief](https://github.com/abilal24/HopperHacks-X) | Built a real-time emotion detection computer vision web app that analyzes live camera input to assess user stress levels and provide wellness recommendations. | React, FastAPI, TensorFlow, and OpenCV |
 
 ---
 
 ### 📊 GitHub Highlights
-- Contributions to **X+ repositories** across [open source / academic / personal projects]  
-- Experience with **version control**, **code reviews**, and **collaborative development**  
--Github Stats Card 
+- Contributions to **5+ repositories** across academic work, personal projects, and competitions.
+- Experience with **data visualization**, **machine learning**, and **collaborative development**  
+- Github Stats Card
 
 ---
 
