@@ -18,7 +18,8 @@ I’m passionate about leveraging machine learning and data science to create im
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [ReRelief](https://github.com/abilal24/HopperHacks-X) | Built a real-time emotion detection computer vision web app that analyzes live camera input to assess user stress levels and provide wellness recommendations. | React, FastAPI, TensorFlow, and OpenCV |
+| [Book Review Sentiment Classifier](https://github.com/AmalBilal1/book-reviews-sentiment-classifier) | This project uses a feedforward neural network with TF‑IDF vectorization to classify book reviews as positive or negative based on their text content. | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras |
+| [ReRelief](https://github.com/AmalBilal1/rerelief-stress-detection-hopperhacks-2025) | Built a real-time emotion detection computer vision web app that analyzes live camera input to assess user stress levels and provide wellness recommendations. | React, FastAPI, TensorFlow, and OpenCV |
 
 ---
 
